@@ -1,0 +1,1 @@
+console.log("这是dir2的js");
